@@ -6,5 +6,7 @@
 - Guest OS: Ubuntu 22.04 LTS
 - Linux Kernel: 6.6.36
 
-This repository is for GitHub activity (kernel study and experiments).
-Project sources (#1, #2) are NOT included.
+## Notes
+This repo is for GitHub activity only.
+Project #1 and #2 source codes are NOT included.
+
