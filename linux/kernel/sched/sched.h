@@ -2,6 +2,9 @@
 /*
  * Scheduler internal types and methods:
  */
+
+/* GitHub activity by luckygeko */
+
 #ifndef _KERNEL_SCHED_SCHED_H
 #define _KERNEL_SCHED_SCHED_H
 
